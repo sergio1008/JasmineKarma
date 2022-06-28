@@ -1,0 +1,53 @@
+{
+    "products" : [
+        {
+            "id": 1,
+            "name" : "arroz",
+            "price":54 
+
+        },
+        {
+            "id": 2,
+            "name" : "leche",
+            "price":25 
+        },
+        {
+            "id": 3,
+            "name" : "huevos",
+            "price":85 
+        },
+        {
+            "id": 4,
+            "name" : "carne",
+            "price":55 
+        },
+        {
+            "id": 5,
+            "name" : "pan",
+            "price":24 
+        },
+        {
+            "id": 6,
+            "name" : "carton",
+            "price":24 
+        }
+    ],
+    "clients" : [
+        {
+            "id" : 1,
+            "nombre": "Sergio Andres Bernal Castañeda",
+            "telefono:" : "3104783703",
+            "edad" : 30,
+            "correo" : "sergiobernalc@outlook.com"
+
+        },
+        {
+            "id" : 2,
+            "nombre": "Sharon Gheraldine Linares Zambrano",
+            "telefono:" : "3173615191",
+            "edad" : 28,
+            "correo" : "akiralyn02@gmail.com"
+
+        }
+    ]
+}
